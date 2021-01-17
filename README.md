@@ -1,7 +1,7 @@
 ### Hi there, I'm Julien - aka [julienrahier][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=julienrahier.com&style=for-the-badge&url=http%3A%2F%2Fjulienrahier.com)](http://julienrahier.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ju_rahier?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fju_rahier&screen_name=ju_rahier)
 
 ## I'm a Student, Indie Maker, Developer, and almost a Digital Nomad!
 
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jujurahier Spotify Playing" width="350" />](https://open.spotify.com/user/jujurahier?si=i8Orxb0RTamB3puQH1WYUg)
+[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="jujurahier Spotify Playing" width="350" />](https://open.spotify.com/user/jujurahier?si=i8Orxb0RTamB3puQH1WYUg)
 
 ### Connect with me:
 
@@ -72,7 +72,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="julienrahier's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jju17&show_icons=true&hide_border=true" />
+  <img align="left" alt="julienrahier's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jju17&show_icons=true&hide_border=true" />
 
 </details>
 
