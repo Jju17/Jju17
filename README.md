@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Reactjs ⚛️
 - 👯 I’m trying to be as nomad as possible
 - 🥅 2021 Goals: Have a solid portfolio !!
-- ⚡ Fun fact: I listened 126,765 minutes of music in 2020, if you do the maths, it represent almost 25% of my year 🎶
+- ⚡ Fun fact: I listened 126,765 minutes of music in 2020, if you do the maths, it represents almost 25% of my year 🎶
 
 ### Spotify Playing 🎧
 
