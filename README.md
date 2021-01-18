@@ -91,5 +91,5 @@
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[mongosb]: https://www.mongodb.com/1
+[mongodb]: https://www.mongodb.com/1
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(macOS)
