@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-git-master.jju17.vercel.app" alt="jujurahier Spotify Playing" width="350" />](https://open.spotify.com/user/jujurahier?si=i8Orxb0RTamB3puQH1WYUg)
+[<img src="https://novatorem-git-master.jju17.vercel.app/api/spotify" alt="jujurahier Spotify Playing" width="350" />](https://open.spotify.com/user/jujurahier?si=i8Orxb0RTamB3puQH1WYUg)
 
 ### Connect with me:
 
