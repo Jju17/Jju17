@@ -7,6 +7,7 @@
 
 - 🔭 I just launched my first project: [Cook4Me][project]!
 - 🌱 I’m currently learning Reactjs ⚛️
+- 📚 Studying IT at EPHEC Louvain-La-Neuve, Belgium
 - 👯 I’m trying to be as nomad as possible
 - 🥅 2021 Goals: Have a solid portfolio !
 - ⚡ Fun fact: I listened 126,765 minutes of music in 2020, if you do the maths, it represents almost 25% of my year 🎶
