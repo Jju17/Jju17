@@ -68,12 +68,12 @@
 
 </details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="julienrahier's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jju17&count_private=true&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://julienrahier.com
 [project]: http://cook4me.be
