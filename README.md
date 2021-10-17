@@ -75,7 +75,7 @@
 
 
 
-[website]: https://julienrahier.com {:target="_blank"}
+[website]: https://julienrahier.com
 [project]: http://cook4me.be
 [twitter]: https://twitter.com/ju_rahier
 [instagram]: https://www.instagram.com/ju_rahier/
