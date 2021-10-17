@@ -51,7 +51,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How to ...](https://cook4me.be)
+- [How to do more blog posts](https://cook4me.be)
 
 <!-- BLOG-POST-LIST:END -->
 
