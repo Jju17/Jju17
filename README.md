@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=julienrahier.com&style=for-the-badge&url=http%3A%2F%2Fjulienrahier.com)](http://julienrahier.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ju_rahier?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fju_rahier&screen_name=ju_rahier)
-[![Website](https://www.codingame.com/profile/18e91f1f14065cce2808fb1deb5064e02181083)](https://www.codingame.com/profile/18e91f1f14065cce2808fb1deb5064e02181083)
 
 ## I'm a Student, Indie Maker, Developer, and almost a Digital Nomad!
 
