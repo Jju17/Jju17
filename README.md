@@ -5,7 +5,7 @@
 
 ## I'm a Student, Indie Maker, Developer, and almost a Digital Nomad!
 
-- 🔭 I just launched my first project: [Cook4Me][project]!
+- 🔭 I just started as iOS Dev @ [easi.net](https://easi.net).
 - 🌱 I’m currently learning Reactjs ⚛️
 - 📚 Studied IT at EPHEC Louvain-La-Neuve, Belgium
 - 👯 I’m trying to be as nomad as possible
