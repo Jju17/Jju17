@@ -8,13 +8,8 @@
 - 🔭 I just started as iOS Dev @ [easi.net](https://easi.net).
 - 🌱 Always learning, currently with pointfree, a video series exploring functional programming and Swift. 📱
 - 📚 Studied IT at EPHEC Louvain-La-Neuve, Belgium
-- 👯 I’m trying to be as nomad as possible
 - 🥅 2023 Goals: Go as far as I can in swift dev and SwiftUI !
 - ⚡ Fun fact: I listened 126,765 minutes of music in 2020, if you do the maths, it represents almost 25% of my year 🎶
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-git-master.jju17.vercel.app/api/spotify" alt="jujurahier Spotify Playing" width="350" />](https://open.spotify.com/user/jujurahier?si=i8Orxb0RTamB3puQH1WYUg)
 
 ### Connect with me:
 
