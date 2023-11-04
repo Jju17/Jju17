@@ -5,7 +5,7 @@
 
 ## I'm a iOS Dev!
 
-- 🔭 I just started as iOS Dev @ [easi.net](https://easi.net).
+- 🔭 I just started as iOS Dev @ [DPG Media IT](https://dpgmediagroup.com).
 - 🌱 Always learning, currently with pointfree, a video series exploring functional programming and Swift. 📱
 - 📚 Studied IT at EPHEC Louvain-La-Neuve, Belgium
 - 🥅 2023 Goals: Go as far as I can in swift dev and SwiftUI !
