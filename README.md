@@ -5,10 +5,10 @@
 
 ## I'm a iOS Dev!
 
-- 🔭 I just started as iOS Dev @ [DPG Media IT](https://dpgmediagroup.com).
+- 🔭 I just started as iOS Dev @ [DPG Media IT](https://dpgmediagroup.com). [More info over here ! 👨🏻‍💻](https://www.linkedin.com/in/julien-rahier/)
 - 🌱 Always learning, currently with pointfree, a video series exploring functional programming and Swift. 📱
 - 📚 Studied IT at EPHEC Louvain-La-Neuve, Belgium
-- 🥅 2023 Goals: Go as far as I can in swift dev and SwiftUI !
+- 🥅 2024 Goals: Keep working hard, launch my very first iOS app, release my personal website 
 - ⚡ Fun fact: I listened 126,765 minutes of music in 2020, if you do the maths, it represents almost 25% of my year 🎶
 
 ### Connect with me:
