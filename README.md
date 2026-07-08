@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rahier.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="julienrahier | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />][x]
-[<img align="left" alt="julienrahier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="julienrahier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/web.svg?color=white"><img align="left" alt="rahier.dev" width="22px" src="https://api.iconify.design/mdi/web.svg?color=black" /></picture>][website]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img align="left" alt="julienrahier | X" width="22px" src="https://cdn.simpleicons.org/x/black" /></picture>][x]
+[<img align="left" alt="julienrahier | LinkedIn" width="22px" src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" />][linkedin]
+[<img align="left" alt="julienrahier | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />][instagram]
 
 <br />
 
@@ -30,7 +30,7 @@
 [<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/xcode/xcode.png" />][xcode]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />][visualcode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][github]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black" /></picture>][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][terminal]
 
 <br />
