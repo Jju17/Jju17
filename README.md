@@ -1,4 +1,4 @@
-### Hi there, I'm Julien - aka [julienrahier][website] 👋
+### Hi there, I'm Julien - aka [rahierdev][website] 👋
 
 [![Website](https://img.shields.io/website?label=rahier.dev&style=for-the-badge&url=https%3A%2F%2Frahier.dev)](https://rahier.dev)
 [![X Follow](https://img.shields.io/twitter/follow/ju_rahier?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?screen_name=ju_rahier)
