@@ -1,6 +1,6 @@
 ### Hi there, I'm Julien - aka [julienrahier][website] 👋
 
-[![Website](https://img.shields.io/website?label=julienrahier.com&style=for-the-badge&url=http%3A%2F%2Fjulienrahier.com)](http://julienrahier.com)
+[![Website](https://img.shields.io/website?label=rahier.dev&style=for-the-badge&url=https%3A%2F%2Frahier.dev)](https://rahier.dev)
 [![X Follow](https://img.shields.io/twitter/follow/ju_rahier?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?screen_name=ju_rahier)
 
 ## I'm an iOS Dev!
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="julienrahier.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rahier.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="julienrahier | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />][x]
 [<img align="left" alt="julienrahier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="julienrahier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -64,7 +64,7 @@
 
 </details>
 
-[website]: https://julienrahier.com
+[website]: https://rahier.dev
 [x]: https://x.com/ju_rahier
 [instagram]: https://www.instagram.com/ju_rahier/
 [linkedin]: https://www.linkedin.com/in/julien-rahier/
