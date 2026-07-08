@@ -36,34 +36,6 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://julienrahier.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="julienrahier's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jju17&count_private=true&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://rahier.dev
 [x]: https://x.com/ju_rahier
 [instagram]: https://www.instagram.com/ju_rahier/
